@@ -1,6 +1,6 @@
 
 
-Robotics
+## Robotics
 
 \1. Explain Kinematics and dynamics?
 
@@ -22,7 +22,7 @@ Robotics
 
 \10. What is a Homogeneous transfer function?
 
-Machine Learning
+## Machine Learning
 
 \1. Explain k-fold cross-validation?
 
@@ -79,10 +79,6 @@ network for image classification?
 \26. What would you expect to see as you vary the learning rate when training a neural
 
 network?
-
-
-
-
 
 \27. What is bagging and boosting techniques?
 
@@ -172,10 +168,6 @@ cross-validation techniques? If yes, please explain.
 
 \62. Difference between Correlation and covariance?
 
-
-
-
-
 \63. Is high variance good or bad for the data?
 
 \64. If your dataset is suffering from high variance how will you handle it?
@@ -264,17 +256,13 @@ e. VGG
 
 f. YOLO
 
-
-
-
-
 g. Siamese network
 
 h. Transformers
 
 i. Encoders and decoders
 
-Data Structures, Algorithms and Parallel Programming
+## Data Structures, Algorithms and Parallel Programming
 
 \1) What is the difference between a linked list and an array?
 
@@ -334,7 +322,7 @@ d) Polymorphism
 
 \22) What is software refactoring?
 
-Credits:
+## Credits:
 
 <https://www.indeed.com/career-advice/interviewing/deep-learning-interview-questions>
 
