@@ -54,7 +54,7 @@
 
 \15. What are undersampling and oversampling and what are the disadvantages?
 
-\16. Explain Softmax? (Explain better)
+\16. Explain Softmax?
 
 \17. Explain dropouts and why we use them?
 
